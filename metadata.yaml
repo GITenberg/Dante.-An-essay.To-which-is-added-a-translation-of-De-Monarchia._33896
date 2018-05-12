@@ -1,0 +1,46 @@
+_repo: Dante.-An-essay.To-which-is-added-a-translation-of-De-Monarchia._33896
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Church, F. J. (Frederick John)
+    alias: Church, Frederick John
+    birthdate: 1854
+    deathdate: 1888
+    gutenberg_agent_id: '36838'
+    url: http://www.gutenberg.org/2009/agents/36838
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Church, R. W. (Richard William)
+    alias: Church, Richard William
+    birthdate: 1815
+    deathdate: 1890
+    gutenberg_agent_id: '4104'
+    url: http://www.gutenberg.org/2009/agents/4104
+    wikipedia: http://en.wikipedia.org/wiki/Richard_William_Church
+  - agent_name: Dante Alighieri
+    alias: Alighieri, Dante
+    birthdate: 1265
+    deathdate: 1321
+    gutenberg_agent_id: '507'
+    url: http://www.gutenberg.org/2009/agents/507
+    wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
+description: ''
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2010-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33896'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church and state -- Early works to 1800'
+- !lcsh 'Italy -- Politics and government -- 476-1268'
+- !lcsh 'Dante Alighieri, 1265-1321'
+- !lcc 'PQ'
+title: Dante. An essay. To which is added a translation of De Monarchia.
+url: http://www.gutenberg.org/ebooks/33896
